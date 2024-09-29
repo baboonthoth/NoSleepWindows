@@ -1,4 +1,4 @@
-﻿# No Sleep Windows
+﻿# No Sleep Windows Utility
 
 ##    While this program is running, Windows will not enter sleep mode.
 
